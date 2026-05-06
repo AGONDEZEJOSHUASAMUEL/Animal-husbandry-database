@@ -1,4 +1,5 @@
 **#🐑 Animal-husbandry-database**
+Video link on youtube https://youtu.be/YwFT9nQlCeM
 
 🌱 What’s this project about?
 This project is all about helping farmers, vets, and researchers keep track of animals in a smarter way. Instead of juggling notebooks, spreadsheets, or scattered records, the database brings everything together — from animal details to feeding — in one organized system.
